@@ -1,0 +1,4 @@
+55	./llms.txt
+52	./fribidi.py
+7	./PLAN.md
+3	./TODO.md
